@@ -1,0 +1,16 @@
+{
+  "name": "gcc-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "google-closure-library": "^20200406.0.0",
+    "google-closure-compiler": "^20200406.0.0"
+  }
+}
